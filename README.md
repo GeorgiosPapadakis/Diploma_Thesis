@@ -5,8 +5,8 @@ It is a very big notebook, so you can download it and play with.
 
 There, you can find:
 * The preparation of the Breast Ultrasound Images Dataset (BUIS) that I used.
-* The creation and training of a U - Net model.
-* The creation and training of a Attention U - Net.
+* The creation and training of an U - Net model.
+* The creation and training of an Attention U - Net.
 * The results of the model
 
 The two models are created with Tensorflow.
